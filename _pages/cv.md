@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* BYD Auto Industry Co., LTD, 2023.07-
+* BYD Auto Industry Co., Ltd., 2023.07-
   * Department: Intelligent Driving Research (Infra Group)
   * Occupation: High-Performance Computing Engineer
   * Base: Shenzhen

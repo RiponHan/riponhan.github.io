@@ -73,9 +73,12 @@ Teaching
   
 Service and leadership
 ======
-* HIT ICES Department of Computing, 2021.09 ~ 2023.06
+* HIT Department of Computing, 2021.10 ~ 2023.06
   * Department: ICES Party Branch
   * Occupation: Deputy Secretary
+* Changchun City Nanhu Sub-district Office, 2021.01 ~ 2021.02
+  * Department: Hubin Community
+  * Occupation: Volunteer
 * CUST SCST Youth League Committee, 2019.06 ~ 2020.06
   * Department: Youth League Committee
   * Occupation: Deputy Secretary

@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, Department of Computing, HIT, 2021.09-2023.06
+* B.S. in Data Science, School of Computer Science, CUST, 2017.09-2021.06
+* H.S. in High School attached to NENU, 2011.09-2017.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* BYD Auto Industry Co., LTD, 2023.07-
+  * Department: Intelligent Driving Research (Infra Group)
+  * Occupation: High-Performance Computing Engineer
+  * Base: Shenzhen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Internship experience
+======
+* Huawei Technologies Co., Ltd., 2021.06-2021.09
+  * Department: CBG (Consumer Business Group)
+  * Occupation: Software development Engineer (Intern)
+  * Base: Shenzhen
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Scholarship
+======
+* National Scholarship, 2020.12
+* Jilin Provincial Government Scholarship, 2019.10
+* HIT Academic Excellence Scholarship (Second-Class), 2021.09
+* HIT Academic Excellence Scholarship (Second-Class), 2022.09
+* CUST President Scholarship, 2020.09
+* PACT518 Merit Scholarship, 2022.05
+
+Awards
+======
+* 2nd Prize, China Robot Fighting Competition, 2019.10
+* Honorable Mention, Mathematical Contest in Modeling (MCM), 2019.05
+* 1st Prize, Jilin Province Robot Competition, 2018.05
+
 Skills
 ======
-* Skill 1
+* Skill 1Honorable Mention, Interdisciplinary Contest in Modeling (ICM), 2018.04
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -61,4 +73,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* HIT ICES Department of Computing, 2021.09 ~ 2023.06
+  * Department: ICES Party Branch
+  * Occupation: Deputy Secretary
+* CUST SCST Youth League Committee, 2019.06 ~ 2020.06
+  * Department: Youth League Committee
+  * Occupation: Deputy Secretary
+* CUST SCST Student Union, 2017.10 ~ 2019.06
+  * Department: Literal & Art
+  * Occupation: Officer

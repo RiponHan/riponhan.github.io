@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Software Engineering, Department of Computing, HIT, 2021.09-2023.06
-* B.S. in Data Science, School of Computer Science, CUST, 2017.09-2021.06
-* H.S. in High School attached to NENU, 2011.09-2017.06
+* M.S. in Software Engineering, Department of Computing, HIT, 2021.09 - 2023.06
+* B.S. in Data Science, School of Computer Science, CUST, 2017.09 - 2021.06
+* H.S. in High School attached to NENU, 2011.09 - 2017.06
 
 Work experience
 ======
@@ -24,7 +24,7 @@ Work experience
 
 Internship experience
 ======
-* Huawei Technologies Co., Ltd., 2021.06-2021.09
+* Huawei Technologies Co., Ltd., 2021.06 - 2021.09
   * Department: CBG (Consumer Business Group)
   * Occupation: Software development Engineer (Intern)
   * Base: Shenzhen
@@ -73,15 +73,15 @@ Teaching
   
 Service and leadership
 ======
-* HIT Department of Computing, 2021.10 ~ 2023.06
+* HIT Department of Computing, 2021.10 - 2023.06
   * Department: ICES Party Branch
   * Occupation: Deputy Secretary
-* Changchun City Nanhu Sub-district Office, 2021.01 ~ 2021.02
+* Changchun City Nanhu Sub-district Office, 2021.01 - 2021.02
   * Department: Hubin Community
   * Occupation: Volunteer
-* CUST SCST Youth League Committee, 2019.06 ~ 2020.06
+* CUST SCST Youth League Committee, 2019.06 - 2020.06
   * Department: Youth League Committee
   * Occupation: Deputy Secretary
-* CUST SCST Student Union, 2017.10 ~ 2019.06
+* CUST SCST Student Union, 2017.10 - 2019.06
   * Department: Literal & Art
   * Occupation: Officer

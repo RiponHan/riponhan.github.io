@@ -18,14 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently conducting research in metaverse services, multimodal foundation models, and multi-agent systems. If you are seeking any form of academic cooperation, please feel free to email me at ruipenghan@163.com. 
-I graduated from School of Computer Science and Technology, Changchun University of Science and Technology with a bachelor’s degree and from the Faculty of Computing, Harbin Institute of Technology with a master’s degree, advised by Zhongjie Wang.
+I received my B.Eng. in Data Science from the School of Computer Science and Technology, Changchun University of Science and Technology. I earned my M.Eng. from the Faculty of Computing, Harbin Institute of Technology, at the Research Center of Intelligent Computing for Enterprises & Services (ICES), supervised by Prof. Zhongjie Wang. I am currently pursuing a Ph.D. at the ICES, Faculty of Computing, Harbin Institute of Technology, under the supervision of Prof. Xiaofei Xu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes metaverse services and computer vision. I have published papers with total <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICSOC 2025. 
 
 # 📝 Publications 
 

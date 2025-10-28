@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently conducting research in metaverse services, multimodal foundation models, and multi-agent systems. If you are seeking any form of academic cooperation, please feel free to email me at ruipenghan@163.com. 
+
 I received my B.Eng. in Data Science from the School of Computer Science and Technology, Changchun University of Science and Technology. I earned my M.Eng. from the Faculty of Computing, Harbin Institute of Technology, at the Research Center of Intelligent Computing for Enterprises & Services (ICES), supervised by Prof. Zhongjie Wang. I am currently pursuing a Ph.D. at the ICES, Faculty of Computing, Harbin Institute of Technology, under the supervision of Prof. Xiaofei Xu.
 
 My research interest includes metaverse services and computer vision. I have published papers with total <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).

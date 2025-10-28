@@ -42,17 +42,32 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.02 - 2025.11 (now)*, Ph.D, Harbin Institute of Technology, Harbin.
+- *2021.09 - 2023.06*, Master, Harbin Institute of Technology, Harbin.
+- *2017.09 - 2021.06*, Undergraduate, Changchun University of Science and Technology, Changchun.
+- *2014.09 - 2017.06*, High School Attached to Northeast Normal University, Changchun.
+
+# 🖥️ Work Experience
+- *2023.07 - 2024.12*, Intelligent Driving Algorithm Engineer, BYD Auto Industry, Shenzhen.
+
+# 🏆 Scholarship
+- *2020.12* National Scholarship. (Top 1%)
+- *2019.10* Jilin Provincial Government Scholarship. (Top 1%)
+- *2022.05* PACT518 Merit Scholarship.
+- *2019.12* Sunny Optical Scholarship.
+- *2021.09* HIT Academic Excellence Scholarship.
+- *2020.09* CUST President Scholarship. (Top 1%)
+
+# 🏅 Honors and Awards
+- *2019.10* 2nd Prize, China Robot Fighting Competition. 
+- *2019.05* Honorable Mention, Mathematical Contest in Modeling (MCM).
+- *2019.08* 2nd Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
+- *2018.05* 1st Prize, Jilin Province Robot Competition.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.06 - 2021.09*, Huawei, Shenzhen. (Remote Working)

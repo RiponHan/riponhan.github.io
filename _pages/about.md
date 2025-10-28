@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2017.09 - 2021.06*, Undergraduate, Changchun University of Science and Technology, Changchun.
 - *2014.09 - 2017.06*, High School Attached to Northeast Normal University, Changchun.
 
-# 🖥️ Work Experience
+# 🖥️ Works
 - *2023.07 - 2024.12*, Intelligent Driving Algorithm Engineer, BYD Auto Industry, Shenzhen.
 
 # 🏆 Scholarship

@@ -55,6 +55,7 @@ My research interest includes metaverse services and computer vision. I have pub
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Shao, Z., Su, T., Xu, M., Liu, Q., Han, R., & Wang, Z. (2022, July). A novel heterogeneous computing middleware for mobile ai services. In 2022 IEEE International Conference on Edge Computing and Communications (EDGE) (pp. 184-191). IEEE.
 
 # 📖 Educations
 - *2025.02 - 2025.11 (now)*, Ph.D, Harbin Institute of Technology, Harbin.

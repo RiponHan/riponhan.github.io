@@ -25,6 +25,7 @@ My research interest includes metaverse services and computer vision. I have pub
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Two papers are accepted by ICWS 2026. 
 - *2025.10*: &nbsp;🎉🎉 One paper is accepted by ICSOC 2025. 
 
 # 📝 Publications 

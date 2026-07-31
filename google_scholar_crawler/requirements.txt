@@ -1,1 +1,1 @@
-scholarly==1.7.11
+# No third-party packages are required.

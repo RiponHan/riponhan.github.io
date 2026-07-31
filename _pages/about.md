@@ -21,7 +21,7 @@ I am currently conducting research in metaverse services, multimodal foundation 
 
 I received my B.Eng. in Data Science from the School of Computer Science and Technology, Changchun University of Science and Technology. I earned my M.Eng. from the Faculty of Computing, Harbin Institute of Technology, at the Research Center of Intelligent Computing for Enterprises & Services (ICES), supervised by Prof. Zhongjie Wang. I am currently pursuing a Ph.D. at the ICES, Faculty of Computing, Harbin Institute of Technology, under the supervision of Prof. Xiaofei Xu.
 
-My research interest includes metaverse services and computer vision. I have published papers with total <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes metaverse services and computer vision. I have published papers with total <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'>google scholar citations <strong><span id='total_cit'>--</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=1tzlO0YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -37,7 +37,7 @@ My research interest includes metaverse services and computer vision. I have pub
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -49,14 +49,14 @@ My research interest includes metaverse services and computer vision. I have pub
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- Shao, Z., Su, T., Xu, M., Liu, Q., Han, R., & Wang, Z. (2022, July). A novel heterogeneous computing middleware for mobile ai services. In 2022 IEEE International Conference on Edge Computing and Communications (EDGE) (pp. 184-191). IEEE.
+- Shao, Z., Su, T., Xu, M., Liu, Q., Han, R., & Wang, Z. (2022, July). A novel heterogeneous computing middleware for mobile ai services. In 2022 IEEE International Conference on Edge Computing and Communications (EDGE) (pp. 184-191). IEEE. <strong><span class='show_paper_citations' data='1tzlO0YAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 # 📖 Educations
 - *2025.02 - 2026.08 (now)*, Ph.D, Harbin Institute of Technology, Harbin.

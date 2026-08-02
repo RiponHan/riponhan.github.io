@@ -1,0 +1,15 @@
+{
+  "scholar_id": "1tzlO0YAAAAJ",
+  "name": "Ruipeng Han",
+  "citedby": 2,
+  "publications": {
+    "1tzlO0YAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "1tzlO0YAAAAJ:9yKSN-GCB0IC",
+      "bib": {
+        "title": "A novel heterogeneous computing middleware for mobile ai services"
+      },
+      "num_citations": 2
+    }
+  },
+  "updated": "2026-08-02T09:49:56.299097+00:00"
+}

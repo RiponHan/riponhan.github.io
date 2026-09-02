@@ -1,0 +1,22 @@
+{
+  "scholar_id": "1tzlO0YAAAAJ",
+  "name": "Ruipeng Han",
+  "citedby": 2,
+  "publications": {
+    "1tzlO0YAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "1tzlO0YAAAAJ:9yKSN-GCB0IC",
+      "bib": {
+        "title": "A novel heterogeneous computing middleware for mobile ai services"
+      },
+      "num_citations": 2
+    },
+    "1tzlO0YAAAAJ:2osOgNQ5qMEC": {
+      "author_pub_id": "1tzlO0YAAAAJ:2osOgNQ5qMEC",
+      "bib": {
+        "title": "Agentic Metaverse Services: A New As-a-Service Paradigm"
+      },
+      "num_citations": 0
+    }
+  },
+  "updated": "2026-09-02T12:25:53.363364+00:00"
+}

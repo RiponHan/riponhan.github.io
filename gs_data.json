@@ -1,0 +1,29 @@
+{
+  "scholar_id": "1tzlO0YAAAAJ",
+  "name": "Ruipeng Han",
+  "citedby": 2,
+  "publications": {
+    "1tzlO0YAAAAJ:9yKSN-GCB0IC": {
+      "author_pub_id": "1tzlO0YAAAAJ:9yKSN-GCB0IC",
+      "bib": {
+        "title": "A novel heterogeneous computing middleware for mobile ai services"
+      },
+      "num_citations": 2
+    },
+    "1tzlO0YAAAAJ:2osOgNQ5qMEC": {
+      "author_pub_id": "1tzlO0YAAAAJ:2osOgNQ5qMEC",
+      "bib": {
+        "title": "Agentic Metaverse Services: A New As-a-Service Paradigm"
+      },
+      "num_citations": 0
+    },
+    "1tzlO0YAAAAJ:qjMakFHDy7sC": {
+      "author_pub_id": "1tzlO0YAAAAJ:qjMakFHDy7sC",
+      "bib": {
+        "title": "TriSA: Tri-Type Hypergraph Semantic Alignment for Metaverse Service Paradigm and Recommendation"
+      },
+      "num_citations": 0
+    }
+  },
+  "updated": "2026-10-01T14:58:01.570201+00:00"
+}
